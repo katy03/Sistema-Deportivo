@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: sistemaDeportivo
+        psr4_prefix: sistemaDeportivo
+        src_path: app
